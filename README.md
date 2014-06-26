@@ -9,3 +9,5 @@ smallworld.js is a small utility for generating small world maps. Documentation 
 Copyright (c) 2014 [Mike Fowler](http://github.com/mikefowler)
 
 Released under the MIT license. See [LICENSE](https://github.com/mikefowler/smallworld.js/blob/master/LICENSE) for details.
+
+
